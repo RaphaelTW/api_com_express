@@ -38,7 +38,7 @@ express/
 [
   {
     "id": 1,
-    "nome": "Monitor LG 24"",
+    "nome": "Monitor LG 24",
     "quantidade": 10,
     "preco": 899.99
   },
